@@ -1,4 +1,6 @@
 # Levenshtein Distance Calculator
+Minimal and case-insensitive
+
 To get started:
 1. Import `calc_levenshtein_distance`
 ```python
